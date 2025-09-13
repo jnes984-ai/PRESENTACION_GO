@@ -16,6 +16,7 @@ Esta es una presentación en la cual veremos el trabajo realizado o algo así..
 - ERwin Data Modeler 7.3
 - MySQL
 - PHP (para pruebas de conexión)
+- InfinityFree (para subir el archivo a la nube c;)
 
 ## ✨ Autor
 **Bley^^** – ((https://github.com/jnes984-ai))
