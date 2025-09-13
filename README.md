@@ -8,7 +8,7 @@ Esta es una presentación en la cual veremos el trabajo realizado o algo así..
 
 ## 🚀 Cómo usar
 1. Crear una base de datos en MySQL local o remoto.
-2. Importar el archivo `mi_base.sql`.
+2. Importar el archivo `.sql`.
 3. Verificar que las tablas se hayan creado correctamente.
 4. (Opcional) Conectar a PHP para probar consultas.
 
